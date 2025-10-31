@@ -1,0 +1,9 @@
+=== windsurf context (2) ===
+[0] 7.LC,B7.Lf)+pe(B7.LO,B7.LX,B7.LQ,B7.Ls,B7.Le)+pb(B7.LZ,B7.LT,B7.LD,B7.Lb,B7.LV)+pS(B7.Lc,B7.Lj,B7.LS,B7.Lv,B7.LR)+pV(B7.Lu,B7.LK,B7.Lm,B7.BP,B7.Lk)]('windsurfAccountsList',q,v)),n[pc(B7.Lr,B7.LW,B7.Lo,B7.LB,B7.Lt)+pS(B7.Li,B7.LL,B7.LF,B7.LG,B7.LH)+pe(B7.LU,B7.Lh,-B7.Lq,B7.Ln,B7.Lg)+pb(B7.Lx,B7.LA,B7.LI,B7.L
+[1] t,UO.xi)+Yv(UO.xL,UO.xF,UO.xG,UO.xH,UO.xU)+YW(UO.xh,UO.xq,UO.xn,-UO.N4,-UO.xg)+Yk(UO.xx,UO.xA,UO.xI,UO.xl,UO.xM)+Ym(UO.xw,UO.xP,-UO.xy,UO.xd,UO.xa)]('windsurfAccountsList',L,q)),G[Yu(UO.i,UO.A0,UO.A1,UO.A2,UO.A3)+Yr(UO.A4,UO.A5,UO.A6,UO.A7,UO.A8)+YB(-UO.A9,-UO.AN,-UO.Ap,UO.Az,UO.AE)+Yk(UO.AY,UO.AJ,-UO.AC,-U
+=== db/json refs (10) ===
+[0] 1c4b*-0x1+0x20ca));const u=X[YU(A9.dX,A9.dQ,A9.ds,A9.de,A9.yv)+'eo'](S,X[Yl(A9.dZ,A9.dT,A9.dD,A9.db,A9.dV)+'eP'](b,-0x17c9+-0x7fb+-0x6aa*-0x5));D[Yx(A9.dc,A9.PW,A9.dj,A9.dS,A9.dv)+Yg(A9.dR,A9.d
+[1] u,A9.dK,A9.dm,A9.dk)+Yx(A9.dr,A9.dW,A9.dB,A9.dt,A9.di)+Yg(A9.dL,A9.dF,A9.dG,A9.dH,A9.dU)+'er']=class{constructor(m){const qi={X:'0\x
+[2] dp,wZ.dz,wZ.dE,wZ.dY,wZ.dJ)+XL(wZ.dC,wZ.df,wZ.dO,wZ.dX,wZ.dQ)+XH(wZ.ds,-wZ.de,wZ.dZ,wZ.dT,wZ.dD)+XH(wZ.db,wZ.dV,wZ.dc,wZ.dj,wZ.dS)+XL(wZ.dv,wZ.dR,wZ.du,wZ.dK,wZ.dm)+XB(wZ.dk,wZ.dr,wZ.dW,wZ.dB,wZ.dt)]||(Obj
+[3] 2.dX)+'fI'](b,W):u[s9(M2.dQ,M2.ds,M2.de,M2.dZ,M2.Mn)+'fI'](g,new x(sN(M2.dT,M2.dC,M2.dD,M2.db,M2.dV)+'P '+A[sY(M2.dc,M2.dj,M2.dS,M2.dv,M2.dR)+s9(M2.du,M2.dK,M2.dm,M2.dk,M2.dr)+sY(M2.dW,M2
+[4] on'][sM(ML.dY,ML.dJ,ML.dC,ML.df,ML.K)+sM(ML.dO,ML.dX,ML.dQ,ML.ds,ML.de)+sw(ML.dZ,ML.dT,ML.dD,-ML.db,ML.dV)+'n'](B,[],L)&&(W=!(-0x181f+-0x2*0x8e9+0x29f1));}}catch(F){}return!!W;}}catch(G){if(V[sd(M
